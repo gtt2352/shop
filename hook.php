@@ -1,2 +1,2 @@
 <?php
-echo 'ok hi hook';
+echo 'exec('whoami')';
